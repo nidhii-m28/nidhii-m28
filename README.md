@@ -12,15 +12,15 @@ I'm currently looking for a **Software Engineer Intern** role where I can work o
 **Cloud & AI:** Microsoft Azure, Microsoft Foundry (GPT-4.1 mini), Gemini API, Power BI
 **Tools:** Git, GitHub, VS Code
 
-## Projects I'm proud of
+## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**RaktSetu**] | Blood bank inventory and donor-recipient management system | JavaScript, Node.js, MongoDB, Multer, JWT |
-| [**EcoSphere**] | Platform where students and researchers upload research files and study topic by topic | MongoDB, Gemini API |
-| [**LearnSphere**] | Multimodal AI learning platform | Microsoft Foundry, GPT-4.1 mini |
-| [**AI Resume Analyzer**] | Analyzes resumes and recommends jobs | Python |
-| [**Crowny**] | Hotel booking website | Django, Flask, HTML, CSS |
+| **RaktSetu** | Blood bank inventory and donor-recipient management system | JavaScript, Node.js, MongoDB, Multer, JWT |
+| **EcoSphere** | Platform where students and researchers upload research files and study topic by topic | MongoDB, Gemini API |
+| **LearnSphere** | Multimodal AI learning platform | Microsoft Foundry, GPT-4.1 mini |
+| **AI Resume Analyzer** | Analyzes resumes and recommends jobs | Python |
+| **Crowny** | Hotel booking website | Django, Flask, HTML, CSS |
 
 ## Certifications
 
